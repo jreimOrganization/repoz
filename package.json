@@ -1,0 +1,22 @@
+{
+  "name": "repoz",
+  "version": "1.0.0",
+  "description": "some new repo thing, so cool ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreimOrganization/repoz.git"
+  },
+  "keywords": [
+    "atomist"
+  ],
+  "author": "jreim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jreimOrganization/repoz/issues"
+  },
+  "homepage": "https://github.com/jreimOrganization/repoz#readme"
+}
